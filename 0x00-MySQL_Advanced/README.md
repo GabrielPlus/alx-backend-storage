@@ -3,7 +3,7 @@
 :bust_in_silhouette: by Guillaume Plessis, Senior Cloud & System Engineer at WeWork and Guillaume, CTO at Holberton school  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**  
 :bookmark: 
-
+** added
 ## Resources
 ### Read or watch:
 * [MySQL cheatsheet](https://devhints.io/mysql)
