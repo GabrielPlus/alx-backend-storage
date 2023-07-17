@@ -3,7 +3,7 @@
 :bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise and Guillaume, CTO at Holberton school  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**  
 :bookmark: 
-
+fehfkjfeffj
 ## Resources
 ### Read or watch:
 * [NoSQL Databases Explained](https://riak.com/resources/nosql-databases/)
